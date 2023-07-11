@@ -1,1 +1,3 @@
-m# DecayedInMyDreams.github.io
+local hwid = {
+"648933D9-100D-41F9-86DD-F83559AF7AAF"
+}
